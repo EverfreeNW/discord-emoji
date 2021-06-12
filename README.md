@@ -7,14 +7,14 @@ Here lies our Discord emojis!
 | Emoji                       | Alias          | Source |
 |-----------------------------|----------------|--------|
 | ![](emoji/alseep.png)       | :alseep:       |  |
-| ![](emoji/awesome.png)      | :awesome:      |  |
+| ![](emoji/awesome.png)      | :awesome:      | http://fav.me/296543167 |
 | ![](emoji/blargh.png)       | :blargh:       |  |
 | ![](emoji/blep.png)         | :blep:         |  |
 | ![](emoji/button.png)       | :button:       |  |
 | ![](emoji/chase.png)        | :chase:        | Everfree Northwest Art |
 | ![](emoji/cheers.png)       | :cheers:       | Everfree Northwest Art |
 | ![](emoji/coffee-1.png)     | :coffee-1:     | Everfree Northwest Art |
-| ![](emoji/deal.png)         | :deal:         |  |
+| ![](emoji/deal.png)         | :deal:         | http://fav.me/451748640 edited |
 | ![](emoji/delivery.png)     | :delivery:     | Everfree Northwest Art |
 | ![](emoji/excited.png)      | :excited:      | Everfree Northwest Art |
 | ![](emoji/facehoof.png)     | :facehoof:     |  |
@@ -31,11 +31,20 @@ Here lies our Discord emojis!
 | ![](emoji/lick.png)         | :lick:         |  |
 | ![](emoji/lookup.png)       | :lookup:       | Everfree Northwest Art |
 | ![](emoji/marina.png)       | :marina:       | Everfree Northwest Art |
+| ![](emoji/marinaAngry.png)       | :marinaangry:       | Hollulu |
+| ![](emoji/marinaEep.png)       | :marinasilly:       | Hollulu |
+| ![](emoji/marinaEugh.png)       | :marinaeugh:       | Hollulu |
+| ![](emoji/marinaRage.png)       | :marinarage:       | Hollulu |
+| ![](emoji/marinaSad.png)       | :marinasad:       | Hollulu |
+| ![](emoji/marinaShock.png)       | :marinashock:       | Hollulu |
+| ![](emoji/marinaSilly.png)       | :marinasilly:       | Hollulu |
+| ![](emoji/marinaSmile.png)       | :marinasmile:       | Hollulu |
+| ![](emoji/marinaWink.png)       | :marinawink:       | Everfree Northwest Art (dawnfire) |
 | ![](emoji/mocha.png)        | :mocha:        | Everfree Northwest Art |
-| ![](emoji/news.png)         | :news:         |  |
+| ![](emoji/news.png)         | :news:         | http://fav.me/d4unq6t |
 | ![](emoji/nope.png)         | :nope:         |  |
 | ![](emoji/novella.png)      | :novella:      | Everfree Northwest Art |
-| ![](emoji/party.png)        | :party:        |  |
+| ![](emoji/party.png)        | :party:        | https://derpibooru.org/images/85252 cropped |
 | ![](emoji/rekt.png)         | :rekt:         |  |
 | ![](emoji/report.png)       | :report:       | Everfree Northwest Art |
 | ![](emoji/sad.png)          | :sad:          |  |
@@ -54,5 +63,5 @@ Here lies our Discord emojis!
 | ![](emoji/wink-1.png)       | :wink-1:       |  |
 | ![](emoji/working.png)      | :working:      | Everfree Northwest Art |
 | ![](emoji/write.png)        | :write:        | Everfree Northwest Art |
-| ![](emoji/wut.png)          | :wut:          |  |
-| ![](emoji/yay.png)          | :yay:          |  |
+| ![](emoji/wut.png)          | :wut:          | https://derpibooru.org/images/86209 |
+| ![](emoji/yay.png)          | :yay:          | Season 1 Episode 16 |
