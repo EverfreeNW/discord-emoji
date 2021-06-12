@@ -32,7 +32,7 @@ Here lies our Discord emojis!
 | ![](emoji/lookup.png)       | :lookup:       | Everfree Northwest Art |
 | ![](emoji/marina.png)       | :marina:       | Everfree Northwest Art |
 | ![](emoji/mocha.png)        | :mocha:        | Everfree Northwest Art |
-| ![](emoji/news.png)         | :news:         |  |
+| ![](emoji/news.png)         | :news:         | http://fav.me/d4unq6t |
 | ![](emoji/nope.png)         | :nope:         |  |
 | ![](emoji/novella.png)      | :novella:      | Everfree Northwest Art |
 | ![](emoji/party.png)        | :party:        |  |
@@ -55,4 +55,4 @@ Here lies our Discord emojis!
 | ![](emoji/working.png)      | :working:      | Everfree Northwest Art |
 | ![](emoji/write.png)        | :write:        | Everfree Northwest Art |
 | ![](emoji/wut.png)          | :wut:          |  |
-| ![](emoji/yay.png)          | :yay:          |  |
+| ![](emoji/yay.png)          | :yay:          | Season 1 Episode 16 |
