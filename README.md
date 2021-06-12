@@ -50,7 +50,7 @@ Here lies our Discord emojis!
 | ![](emoji/marinaRage.png)     | :marinarage:     | Hollulu                                                                  |
 | ![](emoji/marinaSad.png)      | :marinasad:      | Hollulu                                                                  |
 | ![](emoji/marinaShock.png)    | :marinashock:    | Hollulu                                                                  |
-| ![](emoji/marinashroom.png)   | :marinashroom:   | ImDrunkOnTea                                                             |
+| ![](emoji/marinashroom.png)   | :marinashroom:   | imdrunkonTea                                                             |
 | ![](emoji/marinaSilly.png)    | :marinasilly:    | Hollulu                                                                  |
 | ![](emoji/marinaSmile.png)    | :marinasmile:    | Hollulu                                                                  |
 | ![](emoji/marinasparkle.png)  | :marinasparkle:  | FearDaKez                                                                |
