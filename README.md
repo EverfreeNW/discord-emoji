@@ -31,6 +31,15 @@ Here lies our Discord emojis!
 | ![](emoji/lick.png)         | :lick:         |  |
 | ![](emoji/lookup.png)       | :lookup:       | Everfree Northwest Art |
 | ![](emoji/marina.png)       | :marina:       | Everfree Northwest Art |
+| ![](emoji/marinaAngry.png)       | :marinaangry:       | Hollulu |
+| ![](emoji/marinaEep.png)       | :marinasilly:       | Hollulu |
+| ![](emoji/marinaEugh.png)       | :marinaeugh:       | Hollulu |
+| ![](emoji/marinaRage.png)       | :marinarage:       | Hollulu |
+| ![](emoji/marinaSad.png)       | :marinasad:       | Hollulu |
+| ![](emoji/marinaShock.png)       | :marinashock:       | Hollulu |
+| ![](emoji/marinaSilly.png)       | :marinasilly:       | Hollulu |
+| ![](emoji/marinaSmile.png)       | :marinasmile:       | Hollulu |
+| ![](emoji/marinaWink.png)       | :marinawink:       | Everfree Northwest Art (dawnfire) |
 | ![](emoji/mocha.png)        | :mocha:        | Everfree Northwest Art |
 | ![](emoji/news.png)         | :news:         | http://fav.me/d4unq6t |
 | ![](emoji/nope.png)         | :nope:         |  |
