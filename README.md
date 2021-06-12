@@ -39,7 +39,7 @@ Here lies our Discord emojis!
 | ![](emoji/marinaShock.png)       | :marinashock:       | Hollulu |
 | ![](emoji/marinaSilly.png)       | :marinasilly:       | Hollulu |
 | ![](emoji/marinaSmile.png)       | :marinasmile:       | Hollulu |
-| ![](emoji/marinaWink.png)       | :marinawink:       | Everfree Northwest Art (dawnfire) |
+| ![](emoji/marinawink.png)       | :marinawink:       | Everfree Northwest Art (dawnfire) |
 | ![](emoji/mocha.png)        | :mocha:        | Everfree Northwest Art |
 | ![](emoji/news.png)         | :news:         | http://fav.me/d4unq6t |
 | ![](emoji/nope.png)         | :nope:         |  |
