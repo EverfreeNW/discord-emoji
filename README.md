@@ -27,7 +27,7 @@ Here lies our Discord emojis!
 | ![](emoji/coffee-1.png) | :coffee-1: | Everfree Northwest Art |
 | ![](emoji/deal.png) | :deal: | http://fav.me/451748640 edited |
 | ![](emoji/delivery.png) | :delivery: | Everfree Northwest Art ([Evergreen Dream](https://www.deviantart.com/okapifeathers)) |
-| ![](emoji/efnw.png) | :efnw: | Everfree Northwest Art |
+| ![](emoji/efnw.png) | :efnw: | Everfree Northwest Art ([Gemini Star](https://twitter.com/electrickeet)) |
 | ![](emoji/excited.png) | :excited: | Everfree Northwest Art ([JackOMT](https://www.deviantart.com/jackofmosttrades)) |
 | ![](emoji/facehoof.png) | :facehoof: | |
 | ![](emoji/float.png) | :float: | Everfree Northwest Art ([Evergreen Dream](https://www.deviantart.com/okapifeathers)) |
@@ -71,7 +71,7 @@ Here lies our Discord emojis!
 | ![](emoji/squee.png) | :squee: | |
 | ![](emoji/swim.png) | :swim: | Everfree Northwest Art ([Evergreen Dream](https://www.deviantart.com/okapifeathers)) |
 | ![](emoji/tailwhip.png) | :tailwhip: | Everfree Northwest Art ([JaDeDJynX](https://www.deviantart.com/jadedjynx)) |
-| ![](emoji/tales.png) | :tales: | |
+| ![](emoji/tales.png) | :tales: | Natsiou |
 | ![](emoji/thinking-one.png) | :thinking-one: | Everfree Northwest Art ([Evergreen Dream](https://www.deviantart.com/okapifeathers)) |
 | ![](emoji/wat.png) | :wat: | |
 | ![](emoji/what.png) | :what: | |
