@@ -22,17 +22,17 @@ Here lies our Discord emojis!
 | ![](emoji/blargh.png) | :blargh: | |
 | ![](emoji/blep.png) | :blep: | |
 | ![](emoji/button.png) | :button: | |
-| ![](emoji/chase.png) | :chase: | Everfree Northwest Art |
-| ![](emoji/cheers.png) | :cheers: | Everfree Northwest Art |
+| ![](emoji/chase.png) | :chase: | Everfree Northwest Art ([Kelly the Drawing Unicorn](https://www.deviantart.com/kellythedrawinguni)) |
+| ![](emoji/cheers.png) | :cheers: | Everfree Northwest Art ([JaDeDJynX](https://www.deviantart.com/jadedjynx)) |
 | ![](emoji/coffee-1.png) | :coffee-1: | Everfree Northwest Art |
 | ![](emoji/deal.png) | :deal: | http://fav.me/451748640 edited |
-| ![](emoji/delivery.png) | :delivery: | Everfree Northwest Art |
+| ![](emoji/delivery.png) | :delivery: | Everfree Northwest Art ([Evergreen Dream](https://www.deviantart.com/okapifeathers)) |
 | ![](emoji/efnw.png) | :efnw: | Everfree Northwest Art |
-| ![](emoji/excited.png) | :excited: | Everfree Northwest Art |
+| ![](emoji/excited.png) | :excited: | Everfree Northwest Art ([JackOMT](https://www.deviantart.com/jackofmosttrades)) |
 | ![](emoji/facehoof.png) | :facehoof: | |
-| ![](emoji/float.png) | :float: | Everfree Northwest Art |
-| ![](emoji/fly.png) | :fly: | Everfree Northwest Art |
-| ![](emoji/frontpage.png) | :frontpage: | Everfree Northwest Art |
+| ![](emoji/float.png) | :float: | Everfree Northwest Art ([Evergreen Dream](https://www.deviantart.com/okapifeathers)) |
+| ![](emoji/fly.png) | :fly: | Everfree Northwest Art ([Kelly the Drawing Unicorn](https://www.deviantart.com/kellythedrawinguni)) |
+| ![](emoji/frontpage.png) | :frontpage: | Everfree Northwest Art ([Evergreen Dream](https://www.deviantart.com/okapifeathers)) |
 | ![](emoji/gasp.png) | :gasp: | |
 | ![](emoji/happy.png) | :happy: | |
 | ![](emoji/hello.png) | :hello: | |
@@ -41,8 +41,8 @@ Here lies our Discord emojis!
 | ![](emoji/joy-1.png) | :joy-1: | Everfree Northwest Art |
 | ![](emoji/laugh.png) | :laugh: | |
 | ![](emoji/lick.png) | :lick: | |
-| ![](emoji/lookup.png) | :lookup: | Everfree Northwest Art |
-| ![](emoji/marina.png) | :marina: | Everfree Northwest Art |
+| ![](emoji/lookup.png) | :lookup: | Everfree Northwest Art ([JaDeDJynX](https://www.deviantart.com/jadedjynx)) |
+| ![](emoji/marina.png) | :marina: | Everfree Northwest Art ([JaDeDJynX](https://www.deviantart.com/jadedjynx)) |
 | ![](emoji/marinaAngry.png) | :marinaangry: | [Hollulu](https://twitter.com/meekcheep) |
 | ![](emoji/marinaEep.png) | :marinasilly: | Hollulu |
 | ![](emoji/marinaEugh.png) | :marinaeugh: | Hollulu |
@@ -50,7 +50,7 @@ Here lies our Discord emojis!
 | ![](emoji/marinaRage.png) | :marinarage: | Hollulu |
 | ![](emoji/marinaSad.png) | :marinasad: | Hollulu |
 | ![](emoji/marinaShock.png) | :marinashock: | Hollulu |
-| ![](emoji/marinashroom.png) | :marinashroom: | imdrunkonTea |
+| ![](emoji/marinashroom.png) | :marinashroom: | [imdrunkonTea](https://www.deviantart.com/imdrunkontea)  |
 | ![](emoji/marinaSilly.png) | :marinasilly: | Hollulu |
 | ![](emoji/marinaSmile.png) | :marinasmile: | Hollulu |
 | ![](emoji/marinasparkle.png) | :marinasparkle: | FearDaKez |
@@ -63,21 +63,21 @@ Here lies our Discord emojis!
 | ![](emoji/rekt.png) | :rekt: | |
 | ![](emoji/report.png) | :report: | Everfree Northwest Art |
 | ![](emoji/sad.png) | :sad: | |
-| ![](emoji/sharpie.png) | :sharpie: | Everfree Northwest Art |
+| ![](emoji/sharpie.png) | :sharpie: | Everfree Northwest Art ([JaDeDJynX](https://www.deviantart.com/jadedjynx)) |
 | ![](emoji/shrug-1.png) | :shrug-1: | |
 | ![](emoji/sick.png) | :sick: | |
-| ![](emoji/sit.png) | :sit: | Everfree Northwest Art |
+| ![](emoji/sit.png) | :sit: | Everfree Northwest Art ([Dana Simpson](https://danasimpson.com/)) |
 | ![](emoji/smile-1.png) | :smile-1: | |
 | ![](emoji/squee.png) | :squee: | |
-| ![](emoji/swim.png) | :swim: | Everfree Northwest Art |
-| ![](emoji/tailwhip.png) | :tailwhip: | Everfree Northwest Art |
+| ![](emoji/swim.png) | :swim: | Everfree Northwest Art ([Evergreen Dream](https://www.deviantart.com/okapifeathers)) |
+| ![](emoji/tailwhip.png) | :tailwhip: | Everfree Northwest Art ([JaDeDJynX](https://www.deviantart.com/jadedjynx)) |
 | ![](emoji/tales.png) | :tales: | |
-| ![](emoji/thinking-one.png) | :thinking-one: | Everfree Northwest Art |
+| ![](emoji/thinking-one.png) | :thinking-one: | Everfree Northwest Art ([Evergreen Dream](https://www.deviantart.com/okapifeathers)) |
 | ![](emoji/wat.png) | :wat: | |
 | ![](emoji/what.png) | :what: | |
 | ![](emoji/wink-1.png) | :wink-1: | |
-| ![](emoji/working.png) | :working: | Everfree Northwest Art |
-| ![](emoji/write.png) | :write: | Everfree Northwest Art |
+| ![](emoji/working.png) | :working: | Everfree Northwest Art ([Dana Simpson](https://danasimpson.com/)) |
+| ![](emoji/write.png) | :write: | Everfree Northwest Art (Freefall) |
 | ![](emoji/wut.png) | :wut: | https://derpibooru.org/images/86209 |
 | ![](emoji/yay.png) | :yay: | Season 1 Episode 16 |
 
