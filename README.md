@@ -44,15 +44,15 @@ Here lies our Discord emojis!
 | ![](emoji/lookup.png) | :lookup: | Everfree Northwest Art ([JaDeDJynX](https://www.deviantart.com/jadedjynx)) |
 | ![](emoji/marina.png) | :marina: | Everfree Northwest Art ([JaDeDJynX](https://www.deviantart.com/jadedjynx)) |
 | ![](emoji/marinaAngry.png) | :marinaangry: | [Hollulu](https://twitter.com/meekcheep) |
-| ![](emoji/marinaEep.png) | :marinasilly: | Hollulu |
-| ![](emoji/marinaEugh.png) | :marinaeugh: | Hollulu |
+| ![](emoji/marinaEep.png) | :marinasilly: | [Hollulu](https://twitter.com/meekcheep) |
+| ![](emoji/marinaEugh.png) | :marinaeugh: | [Hollulu](https://twitter.com/meekcheep) |
 | ![](emoji/marinafacehoof.png) | :marinafacehoof: | [imdrunkonTea](https://www.deviantart.com/imdrunkontea) |
-| ![](emoji/marinaRage.png) | :marinarage: | Hollulu |
-| ![](emoji/marinaSad.png) | :marinasad: | Hollulu |
-| ![](emoji/marinaShock.png) | :marinashock: | Hollulu |
+| ![](emoji/marinaRage.png) | :marinarage: | [Hollulu](https://twitter.com/meekcheep) |
+| ![](emoji/marinaSad.png) | :marinasad: | [Hollulu](https://twitter.com/meekcheep) |
+| ![](emoji/marinaShock.png) | :marinashock: | [Hollulu](https://twitter.com/meekcheep) |
 | ![](emoji/marinashroom.png) | :marinashroom: | [imdrunkonTea](https://www.deviantart.com/imdrunkontea)  |
-| ![](emoji/marinaSilly.png) | :marinasilly: | Hollulu |
-| ![](emoji/marinaSmile.png) | :marinasmile: | Hollulu |
+| ![](emoji/marinaSilly.png) | :marinasilly: | [Hollulu](https://twitter.com/meekcheep) |
+| ![](emoji/marinaSmile.png) | :marinasmile: | [Hollulu](https://twitter.com/meekcheep) |
 | ![](emoji/marinasparkle.png) | :marinasparkle: | FearDaKez |
 | ![](emoji/marinawink.png) | :marinawink: | Everfree Northwest Art ([dawnfire](https://www.deviantart.com/dawnf1re)) |
 | ![](emoji/mocha.png) | :mocha: | Everfree Northwest Art |
