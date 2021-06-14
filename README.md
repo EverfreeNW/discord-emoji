@@ -61,7 +61,7 @@ Here lies our Discord emojis!
 | ![](emoji/novella.png)        | :novella:        | Everfree Northwest Art |
 | ![](emoji/party.png)          | :party:          | https://derpibooru.org/images/85252 cropped |
 | ![](emoji/rekt.png)           | :rekt:           | |
-| ![](emoji/report.png)         | :report:         | Everfree Northwest Art |
+| ![](emoji/report.png)         | :report:         | Everfree Northwest Art ([Dana Simpson](https://danasimpson.com/)) |
 | ![](emoji/sad.png)            | :sad:            | |
 | ![](emoji/sharpie.png)        | :sharpie:        | Everfree Northwest Art ([JaDeDJynX](https://www.deviantart.com/jadedjynx)) |
 | ![](emoji/shrug-1.png)        | :shrug-1:        | |
