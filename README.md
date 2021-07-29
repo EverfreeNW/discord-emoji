@@ -17,7 +17,7 @@ Here lies our Discord emojis!
 
 |             Emoji             |      Alias       | Source |
 | ----------------------------- | ---------------- | ------ |
-| ![](emoji/alseep.png)         | :alseep:         | |
+| ![](emoji/asleep.png)         | :asleep:         | http://fav.me/825560189 |
 | ![](emoji/awesome.png)        | :awesome:        | http://fav.me/296543167 |
 | ![](emoji/blargh.png)         | :blargh:         | |
 | ![](emoji/blep.png)           | :blep:           | |
