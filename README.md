@@ -45,6 +45,9 @@ Here lies our Discord emojis!
 | ![](emoji/marina.png)         | :marina:         | Everfree Northwest Art ([JaDeDJynX](https://www.deviantart.com/jadedjynx)) |
 | ![](emoji/marinaAngry.png)    | :marinaangry:    | [Hollulu](https://twitter.com/meekcheep) |
 | ![](emoji/marinaEugh.png)     | :marinaeugh:     | [Hollulu](https://twitter.com/meekcheep) |
+| ![](emoji/marinaRamen.png)    | :marinaramen:    | |
+| ![](emoji/marinaRamenSavor.png)    | :marinaramenSavor:    | |
+| ![](emoji/marinaRamenWink.png)    | :marinaramenWink:    | |
 | ![](emoji/marinafacehoof.png) | :marinafacehoof: | [imdrunkonTea](https://www.deviantart.com/imdrunkontea) |
 | ![](emoji/marinaRage.png)     | :marinarage:     | [Hollulu](https://twitter.com/meekcheep) |
 | ![](emoji/marinaSad.png)      | :marinasad:      | [Hollulu](https://twitter.com/meekcheep) |
